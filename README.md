@@ -91,4 +91,4 @@ If you use this code, please cite the corresponding RegionBA paper.
 
 ## Acknowledgements
 
-This implementation builds on public 3D point-cloud classification codebases, including PointNet++, DGCNN, and CurveNet implementations. We thank the authors of these projects for releasing their code.
+This repository is mainly based on [IRBA](https://github.com/KuofengGao/IRBA). Thanks for the wonderful work!
